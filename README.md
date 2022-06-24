@@ -50,14 +50,15 @@ Devido ao grande sucesso da franquia, surgiu a motivação de desenvolver essa a
 
 #### Bibliotecas utilizadas
 
->import pandas as pd
->import seaborn as sns
->import numpy as np
->import matplotlib.pyplot as plt
->import matplotlib.lines as mlines
->from collections import Counter
->from sklearn.cluster import KMeans
+>import pandas as pd</br>
+>import seaborn as sns</br>
+>import numpy as np</br>
+>import matplotlib.pyplot as plt</br>
+>import matplotlib.lines as mlines</br>
+>from collections import Counter</br>
+>from sklearn.cluster import KMeans<br>
 
 
-<!-- INSERIR IMAGEM DO LEAGUE OF LEGENDS -->
-<!-- <img title= "LeBlanc Meme" src="Features/LeblancMeme.jpg"> -->
+
+<img title= "League Of Legends" src="Assets/LeagueChampions.jpeg">
+

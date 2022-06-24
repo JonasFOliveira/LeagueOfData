@@ -46,16 +46,18 @@ Devido ao grande sucesso da franquia, surgiu a motivação de desenvolver essa a
 - Samila Garrido - Minha emogotica suave favorita (Meow)
 - Yhasmim Tigre - Um poço de calma no meio de tanto caos
 - Vinicius Batista - O meu psicopato s2
+- Professor Yuri Malheiros - O homem mais compreensivel do mundo
 
 #### Bibliotecas utilizadas
 
-`import pandas as pd`</br>
-`import seaborn as sns`</br>
-`import numpy as np`</br>
-`import matplotlib.pyplot as plt`</br>
-`import matplotlib.lines as mlines`</br>
-`from collections import Counter`</br>
-`from sklearn.cluster import KMeans`</br>
+>import pandas as pd
+>import seaborn as sns
+>import numpy as np
+>import matplotlib.pyplot as plt
+>import matplotlib.lines as mlines
+>from collections import Counter
+>from sklearn.cluster import KMeans
+
 
 <!-- INSERIR IMAGEM DO LEAGUE OF LEGENDS -->
 <!-- <img title= "LeBlanc Meme" src="Features/LeblancMeme.jpg"> -->
